@@ -32,7 +32,7 @@ function App() {
       stock:15,
     },
     {
-      title:"Pizza",
+      title:"Cheesy Pizza",
       img:"../images/3.jpg",
       desc:"Cheesy and savory pizza with a variety of toppings",
       stock:9,
